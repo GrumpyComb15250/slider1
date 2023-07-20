@@ -44,12 +44,12 @@
   <div class="slider-container">
     <div class="slider">
       <div class="slide">
-        <img src="image1.jpg" alt="Image 1">
+        <img src="https://storage.googleapis.com/msgsndr/QSYRONT8WZr1wLtSJCY0/media/64b84863f601aaf4db4ddfce.png" alt="Image 1">
       </div>
       <div class="slide">
-        <img src="image2.jpg" alt="Image 2">
+        <img src="https://storage.googleapis.com/msgsndr/QSYRONT8WZr1wLtSJCY0/media/64b84522cb72ab09e8989b00.png" alt="Image 2">
       </div>
-      <div class="slide">
+      <div class="https://storage.googleapis.com/msgsndr/QSYRONT8WZr1wLtSJCY0/media/64b848fcf601aad1e94de12c.png">
         <img src="image3.jpg" alt="Image 3">
       </div>
     </div>
